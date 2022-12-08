@@ -1,0 +1,4 @@
+repository "new-repository@Divyatest@cloud"
+  path "/"
+    br "/main"
+    co "/main"
