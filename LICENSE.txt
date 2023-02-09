@@ -5,7 +5,7 @@ individuals. For exact contribution history, see the revision history
 available at https://github.com/barchart/marketdata-api-js
 
 The following license applies to all parts of this software.
-====
+====----
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
